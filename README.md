@@ -35,9 +35,9 @@ plt.plot(X,Y_pred, color="orange")
 plt.show()
 
 
-```
 ## Output
-![Screenshot 2024-05-24 203531](https://github.com/hoshini2809/Univariate-Linear-Regression/assets/170595101/39cc00f2-aaeb-4099-b098-aab3f1206b68)
+![Screenshot 2024-05-24 203531](https://github.com/hoshini2809/Univariate-Linear-Regression/assets/170595101/a15a1d50-c43d-4e82-928c-07b58e7205cb)
+
 
 
 ## Result
